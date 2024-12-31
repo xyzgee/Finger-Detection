@@ -1,4 +1,4 @@
-# Gesture Media Controller
+# Finger-Detection
 
 ## Overview
 This Python project allows you to control media applications using hand gestures, detected through a webcam. By using hand gestures, you can simulate pressing keys like "right", "left", "up", "down", and "space". The project uses the MediaPipe library to detect hand landmarks and the pyautogui library to simulate keypresses.
@@ -77,6 +77,4 @@ Dependencies:
 
 ---
 
-## If you find this project helpful, please consider giving it a ⭐ and forking it! 🙏
-
-**Done By:** [@Ravinandan2005](https://github.com/ravinandan2005)
+**Forked From** [@Ravinandan2005](https://github.com/ravinandan2005)
